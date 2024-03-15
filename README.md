@@ -1,2 +1,4 @@
 # Spotify-clone
-This is a spotify clone with all which you need in this web like songs play and change next and previous also  a feature to add a dynamic playlist just check out and run it in your directory
+This is a Spotify clone with all the features you need, such as playing songs, navigating between tracks, and creating dynamic playlists. Check it out and run it in your directory.
+simply add songs in the songs folder directory
+and also create multiple folders which  you should you shown in this web
